@@ -88,5 +88,8 @@ Lyndsey F. Meyer*, CJ Musante, Richard Allen
 
 *Correspodence to Lyndsey.Meyer@pfizer.com
 
+[![DOI](https://zenodo.org/badge/601242866.svg)](https://zenodo.org/badge/latestdoi/601242866)
+
+
 ![alt text](https://github.com/openPfizer/DigitalHealthData/blob/master/img/osbypfizer.png)
 
